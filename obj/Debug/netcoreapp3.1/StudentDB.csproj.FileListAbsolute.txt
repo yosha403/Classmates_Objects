@@ -1,0 +1,14 @@
+C:\Users\YKunnummal\source\repos\StudentDB\bin\Debug\netcoreapp3.1\StudentDB.exe
+C:\Users\YKunnummal\source\repos\StudentDB\bin\Debug\netcoreapp3.1\StudentDB.deps.json
+C:\Users\YKunnummal\source\repos\StudentDB\bin\Debug\netcoreapp3.1\StudentDB.runtimeconfig.json
+C:\Users\YKunnummal\source\repos\StudentDB\bin\Debug\netcoreapp3.1\StudentDB.runtimeconfig.dev.json
+C:\Users\YKunnummal\source\repos\StudentDB\bin\Debug\netcoreapp3.1\StudentDB.dll
+C:\Users\YKunnummal\source\repos\StudentDB\bin\Debug\netcoreapp3.1\StudentDB.pdb
+C:\Users\YKunnummal\source\repos\StudentDB\obj\Debug\netcoreapp3.1\StudentDB.csproj.AssemblyReference.cache
+C:\Users\YKunnummal\source\repos\StudentDB\obj\Debug\netcoreapp3.1\StudentDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YKunnummal\source\repos\StudentDB\obj\Debug\netcoreapp3.1\StudentDB.AssemblyInfoInputs.cache
+C:\Users\YKunnummal\source\repos\StudentDB\obj\Debug\netcoreapp3.1\StudentDB.AssemblyInfo.cs
+C:\Users\YKunnummal\source\repos\StudentDB\obj\Debug\netcoreapp3.1\StudentDB.csproj.CoreCompileInputs.cache
+C:\Users\YKunnummal\source\repos\StudentDB\obj\Debug\netcoreapp3.1\StudentDB.dll
+C:\Users\YKunnummal\source\repos\StudentDB\obj\Debug\netcoreapp3.1\StudentDB.pdb
+C:\Users\YKunnummal\source\repos\StudentDB\obj\Debug\netcoreapp3.1\StudentDB.genruntimeconfig.cache
